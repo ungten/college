@@ -135,7 +135,7 @@ a {
 }
 
 main {
-  background: no-repeat center/100% url("../img/bg.svg");
+  background: no-repeat center/cover url("../img/bg.svg");
   height: 95vh;
 }
 main .section__title {
